@@ -1,0 +1,12 @@
+body {
+    background-color: #232323;
+}
+
+.square {
+    width: 30%;
+    background-color: brown;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+/*    height: 30%; --> why setting height = 30% doesn't work but setting height = 30px works?*/
+}
