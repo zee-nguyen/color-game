@@ -31,3 +31,10 @@ This is my first try so I used this as a guideline and a note.
 * When picked incorrectly, the color of the picked square should be the same as background
 * There should be a function that picks a randon color from the color array to be the correct color
 
+
+### v3
+* There should be a function that generates an array of x numbers of random colors 
+* The color array should now be generated randomly
+* When user guessed the correct answer, h1 should change to the correct color
+
+
