@@ -38,3 +38,14 @@ This is my first try so I used this as a guideline and a note.
 * When user guessed the correct answer, h1 should change to the correct color
 
 
+### v4
+* There should be a button to reset the game
+    * Applicable when the user won or would like to generate a new set of colors
+* There should be a "nav"
+
+### v5
+* There should be 2 modes for the game - easy (3 squares) and hard (6 squares)
+* There should be 2 buttons that reflet the 2 modes
+    * Style the buttons depending on which is active
+    * Display numbers of squares accordingly
+* Each time a mode is selected, the colors should be newly generated
